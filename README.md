@@ -136,3 +136,11 @@ kleague-algorithm/
 
 **Author:** Sangjae Lee (LifeTwin AI)  
 **Last Updated:** 2026-01-18
+
+<!-- BLOG-URL:START -->
+
+## Blog
+
+- Blog note: [⚽ K-League Pass Coordinate Prediction (LifeTwin AI)](https://softkleenex.github.io/coding_training/dacon/dacon-k-league-pass-prediction)
+
+<!-- BLOG-URL:END -->
